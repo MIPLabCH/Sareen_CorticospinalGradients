@@ -1,0 +1,306 @@
+C1 WM left fasciculus gracilis
+C2 WM left fasciculus gracilis
+C3 WM left fasciculus gracilis
+C4 WM left fasciculus gracilis
+C5 WM left fasciculus gracilis
+C6 WM left fasciculus gracilis
+C7 WM left fasciculus gracilis
+C8 WM left fasciculus gracilis
+T1 WM left fasciculus gracilis
+C1 WM right fasciculus gracilis
+C2 WM right fasciculus gracilis
+C3 WM right fasciculus gracilis
+C4 WM right fasciculus gracilis
+C5 WM right fasciculus gracilis
+C6 WM right fasciculus gracilis
+C7 WM right fasciculus gracilis
+C8 WM right fasciculus gracilis
+T1 WM right fasciculus gracilis
+C1 WM left fasciculus cuneatus
+C2 WM left fasciculus cuneatus
+C3 WM left fasciculus cuneatus
+C4 WM left fasciculus cuneatus
+C5 WM left fasciculus cuneatus
+C6 WM left fasciculus cuneatus
+C7 WM left fasciculus cuneatus
+C8 WM left fasciculus cuneatus
+T1 WM left fasciculus cuneatus
+C1 WM right fasciculus cuneatus
+C2 WM right fasciculus cuneatus
+C3 WM right fasciculus cuneatus
+C4 WM right fasciculus cuneatus
+C5 WM right fasciculus cuneatus
+C6 WM right fasciculus cuneatus
+C7 WM right fasciculus cuneatus
+C8 WM right fasciculus cuneatus
+T1 WM right fasciculus cuneatus
+C1 WM left lateral corticospinal tract
+C2 WM left lateral corticospinal tract
+C3 WM left lateral corticospinal tract
+C4 WM left lateral corticospinal tract
+C5 WM left lateral corticospinal tract
+C6 WM left lateral corticospinal tract
+C7 WM left lateral corticospinal tract
+C8 WM left lateral corticospinal tract
+T1 WM left lateral corticospinal tract
+C1 WM right lateral corticospinal tract
+C2 WM right lateral corticospinal tract
+C3 WM right lateral corticospinal tract
+C4 WM right lateral corticospinal tract
+C5 WM right lateral corticospinal tract
+C6 WM right lateral corticospinal tract
+C7 WM right lateral corticospinal tract
+C8 WM right lateral corticospinal tract
+T1 WM right lateral corticospinal tract
+C1 WM left ventral spinocerebellar tract
+C2 WM left ventral spinocerebellar tract
+C3 WM left ventral spinocerebellar tract
+C4 WM left ventral spinocerebellar tract
+C5 WM left ventral spinocerebellar tract
+C6 WM left ventral spinocerebellar tract
+C7 WM left ventral spinocerebellar tract
+C8 WM left ventral spinocerebellar tract
+T1 WM left ventral spinocerebellar tract
+C1 WM right ventral spinocerebellar tract
+C2 WM right ventral spinocerebellar tract
+C3 WM right ventral spinocerebellar tract
+C4 WM right ventral spinocerebellar tract
+C5 WM right ventral spinocerebellar tract
+C6 WM right ventral spinocerebellar tract
+C7 WM right ventral spinocerebellar tract
+C8 WM right ventral spinocerebellar tract
+T1 WM right ventral spinocerebellar tract
+C1 WM left rubrospinal tract
+C2 WM left rubrospinal tract
+C3 WM left rubrospinal tract
+C4 WM left rubrospinal tract
+C5 WM left rubrospinal tract
+C6 WM left rubrospinal tract
+C7 WM left rubrospinal tract
+C8 WM left rubrospinal tract
+T1 WM left rubrospinal tract
+C1 WM right rubrospinal tract
+C2 WM right rubrospinal tract
+C3 WM right rubrospinal tract
+C4 WM right rubrospinal tract
+C5 WM right rubrospinal tract
+C6 WM right rubrospinal tract
+C7 WM right rubrospinal tract
+C8 WM right rubrospinal tract
+T1 WM right rubrospinal tract
+C3 WM left lateral reticulospinal tract
+C4 WM left lateral reticulospinal tract
+C8 WM left lateral reticulospinal tract
+C3 WM right lateral reticulospinal tract
+C4 WM right lateral reticulospinal tract
+C8 WM right lateral reticulospinal tract
+C1 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C2 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C3 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C4 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C5 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C6 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C7 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C8 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+T1 WM left spinal lemniscus (spinothalamic and spinoreticular tracts)
+C1 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C2 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C3 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C4 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C5 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C6 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C7 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C8 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+T1 WM right spinal lemniscus (spinothalamic and spinoreticular tracts)
+C1 WM left spino-olivary tract
+C2 WM left spino-olivary tract
+C3 WM left spino-olivary tract
+C4 WM left spino-olivary tract
+C5 WM left spino-olivary tract
+C6 WM left spino-olivary tract
+C7 WM left spino-olivary tract
+C8 WM left spino-olivary tract
+T1 WM left spino-olivary tract
+C1 WM right spino-olivary tract
+C2 WM right spino-olivary tract
+C3 WM right spino-olivary tract
+C4 WM right spino-olivary tract
+C5 WM right spino-olivary tract
+C6 WM right spino-olivary tract
+C7 WM right spino-olivary tract
+C8 WM right spino-olivary tract
+T1 WM right spino-olivary tract
+C1 WM left ventrolateral reticulospinal tract
+C2 WM left ventrolateral reticulospinal tract
+C3 WM left ventrolateral reticulospinal tract
+C4 WM left ventrolateral reticulospinal tract
+C5 WM left ventrolateral reticulospinal tract
+C6 WM left ventrolateral reticulospinal tract
+C7 WM left ventrolateral reticulospinal tract
+C8 WM left ventrolateral reticulospinal tract
+T1 WM left ventrolateral reticulospinal tract
+C1 WM right ventrolateral reticulospinal tract
+C2 WM right ventrolateral reticulospinal tract
+C3 WM right ventrolateral reticulospinal tract
+C4 WM right ventrolateral reticulospinal tract
+C5 WM right ventrolateral reticulospinal tract
+C6 WM right ventrolateral reticulospinal tract
+C7 WM right ventrolateral reticulospinal tract
+C8 WM right ventrolateral reticulospinal tract
+T1 WM right ventrolateral reticulospinal tract
+C1 WM left lateral vestibulospinal tract
+C2 WM left lateral vestibulospinal tract
+C3 WM left lateral vestibulospinal tract
+C4 WM left lateral vestibulospinal tract
+C5 WM left lateral vestibulospinal tract
+C6 WM left lateral vestibulospinal tract
+C7 WM left lateral vestibulospinal tract
+C8 WM left lateral vestibulospinal tract
+T1 WM left lateral vestibulospinal tract
+C1 WM right lateral vestibulospinal tract
+C2 WM right lateral vestibulospinal tract
+C3 WM right lateral vestibulospinal tract
+C4 WM right lateral vestibulospinal tract
+C5 WM right lateral vestibulospinal tract
+C6 WM right lateral vestibulospinal tract
+C7 WM right lateral vestibulospinal tract
+C8 WM right lateral vestibulospinal tract
+T1 WM right lateral vestibulospinal tract
+C1 WM left ventral reticulospinal tract
+C2 WM left ventral reticulospinal tract
+C3 WM left ventral reticulospinal tract
+C4 WM left ventral reticulospinal tract
+C5 WM left ventral reticulospinal tract
+C6 WM left ventral reticulospinal tract
+C7 WM left ventral reticulospinal tract
+C8 WM left ventral reticulospinal tract
+T1 WM left ventral reticulospinal tract
+C1 WM right ventral reticulospinal tract
+C2 WM right ventral reticulospinal tract
+C3 WM right ventral reticulospinal tract
+C4 WM right ventral reticulospinal tract
+C5 WM right ventral reticulospinal tract
+C6 WM right ventral reticulospinal tract
+C7 WM right ventral reticulospinal tract
+C8 WM right ventral reticulospinal tract
+T1 WM right ventral reticulospinal tract
+C1 WM left ventral corticospinal tract
+C2 WM left ventral corticospinal tract
+C3 WM left ventral corticospinal tract
+C4 WM left ventral corticospinal tract
+C5 WM left ventral corticospinal tract
+C6 WM left ventral corticospinal tract
+C7 WM left ventral corticospinal tract
+C8 WM left ventral corticospinal tract
+T1 WM left ventral corticospinal tract
+C1 WM right ventral corticospinal tract
+C2 WM right ventral corticospinal tract
+C3 WM right ventral corticospinal tract
+C4 WM right ventral corticospinal tract
+C5 WM right ventral corticospinal tract
+C6 WM right ventral corticospinal tract
+C7 WM right ventral corticospinal tract
+C8 WM right ventral corticospinal tract
+T1 WM right ventral corticospinal tract
+C1 WM left tectospinal tract
+C2 WM left tectospinal tract
+C3 WM left tectospinal tract
+C4 WM left tectospinal tract
+C5 WM left tectospinal tract
+C6 WM left tectospinal tract
+C7 WM left tectospinal tract
+C8 WM left tectospinal tract
+T1 WM left tectospinal tract
+C1 WM right tectospinal tract
+C2 WM right tectospinal tract
+C3 WM right tectospinal tract
+C4 WM right tectospinal tract
+C5 WM right tectospinal tract
+C6 WM right tectospinal tract
+C7 WM right tectospinal tract
+C8 WM right tectospinal tract
+T1 WM right tectospinal tract
+C1 WM left medial reticulospinal tract
+C2 WM left medial reticulospinal tract
+C3 WM left medial reticulospinal tract
+C4 WM left medial reticulospinal tract
+C5 WM left medial reticulospinal tract
+C6 WM left medial reticulospinal tract
+C7 WM left medial reticulospinal tract
+C8 WM left medial reticulospinal tract
+T1 WM left medial reticulospinal tract
+C1 WM right medial reticulospinal tract
+C2 WM right medial reticulospinal tract
+C3 WM right medial reticulospinal tract
+C4 WM right medial reticulospinal tract
+C5 WM right medial reticulospinal tract
+C6 WM right medial reticulospinal tract
+C7 WM right medial reticulospinal tract
+C8 WM right medial reticulospinal tract
+T1 WM right medial reticulospinal tract
+C1 WM left medial longitudinal fasciculus
+C2 WM left medial longitudinal fasciculus
+C3 WM left medial longitudinal fasciculus
+C4 WM left medial longitudinal fasciculus
+C5 WM left medial longitudinal fasciculus
+C6 WM left medial longitudinal fasciculus
+C7 WM left medial longitudinal fasciculus
+C8 WM left medial longitudinal fasciculus
+T1 WM left medial longitudinal fasciculus
+C7 WM right medial longitudinal fasciculus
+C8 WM right medial longitudinal fasciculus
+T1 WM right medial longitudinal fasciculus
+C1 GM left ventral horn
+C2 GM left ventral horn
+C3 GM left ventral horn
+C4 GM left ventral horn
+C5 GM left ventral horn
+C6 GM left ventral horn
+C7 GM left ventral horn
+C8 GM left ventral horn
+T1 GM left ventral horn
+C1 GM right ventral horn
+C2 GM right ventral horn
+C3 GM right ventral horn
+C4 GM right ventral horn
+C5 GM right ventral horn
+C6 GM right ventral horn
+C7 GM right ventral horn
+C8 GM right ventral horn
+T1 GM right ventral horn
+C1 GM left intermediate zone
+C2 GM left intermediate zone
+C3 GM left intermediate zone
+C4 GM left intermediate zone
+C5 GM left intermediate zone
+C6 GM left intermediate zone
+C7 GM left intermediate zone
+C8 GM left intermediate zone
+T1 GM left intermediate zone
+C1 GM right intermediate zone
+C2 GM right intermediate zone
+C3 GM right intermediate zone
+C4 GM right intermediate zone
+C5 GM right intermediate zone
+C6 GM right intermediate zone
+C7 GM right intermediate zone
+C8 GM right intermediate zone
+T1 GM right intermediate zone
+C1 GM left dorsal horn
+C2 GM left dorsal horn
+C3 GM left dorsal horn
+C4 GM left dorsal horn
+C5 GM left dorsal horn
+C6 GM left dorsal horn
+C7 GM left dorsal horn
+C8 GM left dorsal horn
+T1 GM left dorsal horn
+C1 GM right dorsal horn
+C2 GM right dorsal horn
+C3 GM right dorsal horn
+C4 GM right dorsal horn
+C5 GM right dorsal horn
+C6 GM right dorsal horn
+C7 GM right dorsal horn
+C8 GM right dorsal horn
+T1 GM right dorsal horn

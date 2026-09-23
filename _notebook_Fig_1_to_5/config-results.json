@@ -1,0 +1,37 @@
+{
+    "subject_list": "S",
+    "session_nos": [1],
+    "tr": 1.55,
+    "FC_measure": "correlation",
+
+    "dist_file_R": "../_distance/somatomotor_R_trajectory_table_al_start20_noTL.csv",
+    "dist_file_L": "../_distance/somatomotor_L_trajectory_table_al_start18_noTL.csv",
+    "mask_brain": "../_templates/MNI152_T1_2mm_brain_mask.nii.gz",
+    "mask_sc": "../_templates/PAM50_cropv3/PAM50_cord.nii.gz",
+    "t2_sc": "../_templates/PAM50_cropv3/PAM50_t2.nii.gz",
+    "custom_sc_parc": "../_templates/atlas_custom/",
+    "custom_sc_atlas": "../_templates/atlas_custom/atlas.nii.gz",
+    "custom_sc_labels": "../_templates/atlas_custom/info_label.txt",
+    "merge_labels": "../_templates/atlas_custom/merge_ascending_descending.json",
+    "sc_level": "none",
+    "include_C1C2": false,
+    "include_T1": false,
+    
+    "save_fc_mats": "../_fcmatrices/",
+    "save_fc_mats_33sp": "../_fcmatrices_33sp/",
+    "save_fc_mats_8sp": "../_fcmatrices_8sp/",
+    "save_timecourse_rest": "../_timecourses/",
+    "save_main_smc_npy": "../_output/",
+    "save_main_smc": "../_output/",
+    "save_main_sc": "../_output/",
+    "save_grads_sc": "../_output/",
+    "save_grads_sc_scaled": "../_output/",
+    "save_grads_sc_cluster": "../_output/",
+    "save_grads_sc_scatter": "../_output/",
+    "logs_file": "../_output/grad_log.txt",
+    
+    "add_confounds": false,
+    "extract_timeseries_brain": false,
+    
+    "_comment": "Set subject_list= 'S' and session_nos=[] to denote all subjects"
+}

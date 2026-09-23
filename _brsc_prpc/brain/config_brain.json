@@ -1,0 +1,37 @@
+{
+    "SCT_PATH": "../sct_7.1/",
+    "FSL_PATH": "../fsl/",
+    "tmp_path": "../tmp/",
+
+    "parent_path": "../Data",
+    "data_root" : "S",
+    "fmriname": "fmri",
+    "condition": "rest",
+    "TR": 1.55,
+    
+    "stc":"/1_STC/",
+    "seg_func":"/2_Segmentation/",
+    "moco_func":"/3_MOCO/",
+    "denoise_func":"/4_Denoising/",
+    "func_coreg":"/5_Coregistration/",
+    "func_smooth":"/6_Smoothing/",
+    
+    "anat": "anat",
+    "func": "func",
+    "physio": "physio",
+    "timings":"timings",
+    "dicoms":"dicoms",
+    "t1":"t1",
+    "t2":"t2",
+    
+    "slice_timing": false,
+    "crop_image" : false, 
+    "moco_brain": false,
+    "segmentation" : false,
+    "anat2func" : false,
+    "smoothing": false,
+    "taskglm": false,
+    "glm_regs": ["moco"],
+
+    "MNI_brain_mask" : "../atlas/Brain/MNI152_T1_2mm_brain_mask.nii"
+}

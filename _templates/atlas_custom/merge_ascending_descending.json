@@ -1,0 +1,19 @@
+{
+    "ascending":[
+       "fasciculus gracilis",
+       "fasciculus cuneatus",
+       "ventral spinocerebellar tract",
+       "spinal lemniscus (spinothalamic and spinoreticular tracts)",
+       "spino-olivary tract"],
+    "descending":[
+        "lateral corticospinal tract",
+        "rubrospinal tract",
+        "lateral reticulospinal tract",
+        "ventrolateral reticulospinal tract",
+        "lateral vestibulospinal tract",
+        "ventral reticulospinal tract",
+        "ventral corticospinal tract",
+        "tectospinal tract",
+        "medial reticulospinal tract",
+        "medial longitudinal fasciculus"]
+}

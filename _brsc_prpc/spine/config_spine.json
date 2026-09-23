@@ -1,0 +1,47 @@
+{
+    "SCT_PATH": "../sct_7.1/",
+    "FSL_PATH": "../fsl/",
+    "tmp_path": "../tmp/",
+
+    "parent_path": "../Data",
+    "data_root" : "S",
+    "fmriname": "fmri",
+    "condition": "rest",
+    "TR": 1.55,
+    
+    "spine_dir": "8_SpinalCord",
+    "stc":"/1_STC/",
+    "func_moco":"Moco",
+    "func_smooth":"Smoothing",
+    "func_glm":"TaskGLM",
+    "ta": "TA",
+
+    "anat": "anat",
+    "func": "func",
+    "physio": "physio",
+    "timings":"timings",
+    "dicoms":"dicoms",
+    "t1":"t1",
+    "t2":"t2",
+    
+    "csf_mask": true, 
+    "mask_csf_name": "mask_csf",
+    "mask_fname": "mask_sc",
+    
+    "anat_norm" : false,
+    "moco": false,
+    "func_norm" : false,
+    "denoising": false,
+    "normalization": false,
+    "smoothing": false,
+    "taskglm": false,
+    "glm_regs": ["moco"],
+
+   "fsl_template_noise": "../_fsftemplates/template_noiseregression.fsf",
+    "fsl_template_rest": "../_fsftemplates/template_rest.fsf",
+    
+    "pam50_template": "../atlas/PAM50_t2.nii.gz",
+    "pam50_template_cord": "../atlas/PAM50_cord.nii.gz",
+    "pam50_template_t1": "../atlas/PAM50_t1.nii.gz",
+    "pam50_template_t1_cord": "../atlas/PAM50_cord_t1.nii.gz"
+}
