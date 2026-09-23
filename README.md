@@ -10,7 +10,7 @@ Ekansh Sareen, Nivedya Nambiar, Boris Bernhardt et al. Functional Gradients of t
 ## 💾 Data
 
 To support reproducibility of the analyses and figures reported in this article, this repository includes preprocessed subject-level functional connectivity (FC) matrices used by the analysis code:
-`_fcmatrices/` : Subject-level FC matrices for the full corticospinal ROI set; `_fcmatrices_33sp/` : Subject-level FC matrices for the somatomotor cortical parcels and 33 spinal cord ROIs; `_fcmatrices_8sp/` : Subject-level FC matrices for the somatomotor cortical parcels and 8 spinal cord ROIs |
+`_fcmatrices/` : Subject-level FC matrices for the full corticospinal ROI set; `_fcmatrices_33sp/` : Subject-level FC matrices for the somatomotor cortical parcels and 33 spinal cord ROIs; `_fcmatrices_8sp/` : Subject-level FC matrices for the somatomotor cortical parcels and 8 spinal cord ROIs. 
 
 Each CSV file contains one participant-level ROI-by-ROI FC matrix. ROI labels are stored in both the row index and column headers, and matrices within a directory share an identical ROI ordering. The analysis notebooks load these matrices directly, compute group-average FC matrices, derive functional gradients, and generate the corresponding figures.
 
