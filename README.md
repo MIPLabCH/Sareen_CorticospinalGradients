@@ -109,4 +109,4 @@ Figure‑specific notebooks and shared utilities.
    Run the notebooks in `notebook_Fig_1_to_5/` to compute FC matrices, gradients, clustering, CCA, and statistical tests, and to regenerate Figures 1–5 from the manuscript.
 
 4. **Precomputed inputs**  
-   The `timecourses/`, `distance/`, and `templates/` folders provide all required inputs so that the figure notebooks can be executed without rerunning the full preprocessing pipeline.
+   The `_fcmatrices/`, `_fcmatrices_33sp/`, `_fcmatrices_8sp/`, `distance/`, and `templates/` folders provide all required inputs so that the figure notebooks can be executed without rerunning the full preprocessing pipeline.
